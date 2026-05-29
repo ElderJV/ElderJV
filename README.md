@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hola, soy Elder Julca Velasco
 
-<!--
-**ElderJV/ElderJV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas enfocado en desarrollo Backend con Java y Spring Boot.
+🚀 Actualmente fortaleciendo mis habilidades en arquitectura backend, APIs REST y desarrollo de sistemas empresariales.
+🎯 Buscando mi primera oportunidad profesional como Backend Developer Junior.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Base de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📌 Sobre mí
+
+* 🔥 Enfocado en convertirme en Backend Developer profesional
+* 📚 Aprendizaje continuo en Java y Spring Framework
+* 🤝 Interesado en trabajo colaborativo y metodologías ágiles
+* 🧠 Me gusta construir soluciones funcionales y escalables
+* 🚀 Objetivo: crecer hacia un perfil Full Stack
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🛒 Sistema Empresarial Web
+
+Aplicación web desarrollada con Spring Boot y Angular orientada a la gestión empresarial.
+
+🔗 Repositorio: [Ver proyecto](https://github.com/TU_USUARIO)
+
+---
+
+### 🔐 API REST con Spring Boot
+
+API backend con autenticación, manejo de usuarios y conexión a base de datos SQL.
+
+🔗 Repositorio: [Ver proyecto](https://github.com/TU_USUARIO)
+
+---
+
+## 📊 Estadísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+📧 Correo: [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/TU_USUARIO
+🐙 GitHub: https://github.com/TU_USUARIO
+
+---
+
+⭐ Siempre abierto a aprender, colaborar y desarrollar nuevas soluciones tecnológicas.
