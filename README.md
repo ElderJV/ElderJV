@@ -55,9 +55,9 @@
 
 ### 🛒 Sistema Empresarial Web
 
-Aplicación web desarrollada con Spring Boot y Angular orientada a la gestión empresarial.
+Aplicación web desarrollada con Spring Boot y Angular orientada a la gestion de material educativo.
 
-🔗 Repositorio: [Ver proyecto](https://github.com/TU_USUARIO)
+🔗 Repositorio: [Ver proyecto](https://github.com/ElderJV/CEPDSAC_BACKEND.git)
 
 ---
 
@@ -65,7 +65,7 @@ Aplicación web desarrollada con Spring Boot y Angular orientada a la gestión e
 
 API backend con autenticación, manejo de usuarios y conexión a base de datos SQL.
 
-🔗 Repositorio: [Ver proyecto](https://github.com/TU_USUARIO)
+🔗 Repositorio: [Ver proyecto](https://github.com/ElderJV/CEPDSAC_BACKEND.git)
 
 ---
 
