@@ -71,7 +71,8 @@ API backend con autenticación, manejo de usuarios y conexión a base de datos S
 
 ## 📊 Estadísticas GitHub
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ElderJV)](https://github.com/stats-organization/github-stats-extended)
+![Elder GitHub stats](https://github-stats-extended.vercel.app/api?username=ElderJV)]
+
 ---
 
 ## 📫 Contacto
