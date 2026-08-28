@@ -71,7 +71,7 @@ API backend con autenticación, manejo de usuarios y conexión a base de datos S
 
 ## 📊 Estadísticas GitHub
 
-![Elder GitHub stats](https://github-stats-extended.vercel.app/api?username=ElderJV)]
+[![Elder GitHub stats](https://github-stats-extended.vercel.app/api/?username=ElderJV&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=ElderJV&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 ---
 
