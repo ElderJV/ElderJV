@@ -71,17 +71,13 @@ API backend con autenticación, manejo de usuarios y conexión a base de datos S
 
 ## 📊 Estadísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElderJV&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElderJV&layout=compact&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ElderJV)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## 📫 Contacto
 
 📧 Correo: [elderjulcavelasco@gmail.com](mailto:elderjulcavelasco@gmail.com)
 💼 LinkedIn: [linkedin.com/in/elderjulcavelasco/](https://www.linkedin.com/in/elderjulcavelasco/)
-🐙 GitHub: https://github.com/ElderJV
 
 ---
 
